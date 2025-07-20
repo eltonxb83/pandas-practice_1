@@ -12,5 +12,5 @@ Personal practice while learning Pandas for Data Analysis
 #Why I made this
 Similarly to my first repo, this tracks my journey in building basic Pandas foundations in data analysis.
 Goals completed thus far-
-  . Basic Python
-  . Basic Numpy
+    . Basic Python
+    . Basic Numpy
